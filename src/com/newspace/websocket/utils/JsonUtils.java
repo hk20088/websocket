@@ -20,6 +20,7 @@ import com.google.gson.reflect.TypeToken;
 /**
  * {@link JsonUtils.java} 
  * @description 用于操作json的工具类，使用gson来进行json字符串和实体类对象之间的转换
+ * 				备注：2017年6月8日导入github
  * @author huqili
  * @since JDK1.8
  * @date 2016年6月1日
